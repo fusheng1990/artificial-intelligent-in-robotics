@@ -1,6 +1,6 @@
 # artificial-intelligent-in-robotics
 
-
+circular motion : 建立汽车的运动模型，预测后一秒汽车的位置估计
 
 first search ： 移动一步 | 0 | 0 | 1 | 0 | 0 | 0 |
                         | 0 | 0 | 1 | 0 | 0 | 0 |
